@@ -1,4 +1,7 @@
-.logo {
-    height: 60px;
-    width: 60px;
+.page {
+    margin: 0 auto;
+    width: 960px;
+}
+.name {
+    color:white;
 }
