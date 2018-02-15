@@ -4,4 +4,6 @@
 }
 .name {
     color:white;
+    background-color: blue;
+    float: left;
 }
