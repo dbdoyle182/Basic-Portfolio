@@ -7,3 +7,15 @@
     background-color: blue;
     float: left;
 }
+.sitenav {
+    float: right;
+}
+.sitenav, li {
+    display: inline;
+}
+.main-about {
+    clear: both;
+}
+footer {
+    text-align: center;
+}
