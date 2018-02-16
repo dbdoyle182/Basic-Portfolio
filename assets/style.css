@@ -16,17 +16,22 @@
 .main-about {
     clear: both;
     width: 650px;
+    margin-right: 0;
+    display: inline-block;
+    float: left;
 }
 footer {
     text-align: center;
     clear: both;
 }
 .sidebar {
-    width: 270px; 
+    width: 250px; 
     float: right;
+    margin-right: 0;
 }
 .imgme {
     float: left;
+    padding-right: 30px;
 }
 .clearfix::after{
     Content: "";
