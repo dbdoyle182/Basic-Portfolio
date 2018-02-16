@@ -3,8 +3,8 @@
     width: 960px;
 }
 .name {
-    color:white;
-    background-color: blue;
+    color: #ffffff;
+    background-color: #4aaaa5;
     float: left;
 }
 .sitenav {
@@ -15,7 +15,21 @@
 }
 .main-about {
     clear: both;
+    width: 650px;
 }
 footer {
     text-align: center;
+    clear: both;
+}
+.sidebar {
+    width: 270px; 
+    float: right;
+}
+.imgme {
+    float: left;
+}
+.clearfix::after{
+    Content: "";
+    Display: block;
+    Clear: both;
 }
